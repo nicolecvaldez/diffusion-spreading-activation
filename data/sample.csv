@@ -1,0 +1,10 @@
+src,dst,weight
+a,b,5
+b,a,5
+a,c,5
+c,a,1
+c,b,2
+c,d,3
+c,e,4
+c,f,5
+e,f,5
